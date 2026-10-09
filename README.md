@@ -1,1 +1,2 @@
-# This is my First Git repository
+# FIRSTGITHUB
+This is my first git repository
